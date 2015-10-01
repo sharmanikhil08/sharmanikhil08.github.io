@@ -13,17 +13,20 @@ var experience = '<li><h4>%data0% &nbsp; &nbsp; &nbsp; ( %data1% )</h4><br><h5>%
 
 var experience_array = [
 {
-	name: 'Company Name 1' ,
+	name: 'Company name 1' ,
+	//profile/position: ' XYZ',
 	period: 'Aug 2014 - Present ' ,
 	info: 'Job description.....explain roles and duties etc......'
 },
 {
 	name:'Company Name 2' ,
+	//profile/position: 'XYZ', 
 	period: 'month 20xx- month 20xx',
 	info: 'Job description.....explain roles and duties etc......'
 },
 {
 	name: 'Company Name 3',
+	//profile/position: 'XYZ',
 	period: 'month 20xx- month 20xx',
 	info: 'Job description.....explain roles and duties etc......'
 }
@@ -33,6 +36,7 @@ var experience_new = '';
 
 for(var i=0; i<experience_array.length; i+=1){
 	experience_new= experience.replace('%data0%',experience_array[i]['name']);
+	//experience new= experience.replace('%data1%',experience_array[i]['profile/position']);
 	experience_new= experience_new.replace('%data1%',experience_array[i]['period']);
 	experience_new= experience_new.replace('%data2%',experience_array[i]['info']);
 	$('.experience-section-info').append(experience_new);
