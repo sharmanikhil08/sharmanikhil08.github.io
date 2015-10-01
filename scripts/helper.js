@@ -18,10 +18,11 @@ var experience_array = [
 	info: 'Job Role: High Profile Security Officer'
 },
 {
-	name:'Company Name 2' ,
-	//profile/position: 'XYZ', 
-	period: 'month 20xx- month 20xx',
-	info: 'Job description.....explain roles and duties etc......'
+	name:'SMU Hackathon 2015' , 
+	period: 'May 2015',
+	info: 'Winner - University Category \n Project Name: HealthShirt \n Project Info: Created an app focusing the 
+	Healthcare Industry showcasing the concept of Internet of things(IoT), by using Netduino Hardware to connect
+	Azure cloud server for transmitting data from the shirt to a full stack webpage.'
 },
 {
 	name: 'Company Name 3',
