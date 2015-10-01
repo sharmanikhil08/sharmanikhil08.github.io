@@ -13,6 +13,10 @@
 	color: #181818;
 }
 
+.featurette-image {
+    width: 550px;
+}
+
 .experience-section{
 	background-color: #FFF;
 	padding-left: 50px;
