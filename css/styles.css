@@ -7,10 +7,12 @@
 
 .name{
 	color: white;
+	padding-left: 50px;
 }
 
 .designation{
 	color: #181818;
+	padding-left: 50px;
 }
 
 .resize{
