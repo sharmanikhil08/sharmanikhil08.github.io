@@ -13,8 +13,8 @@ var experience = '<li><h4>%data0% &nbsp; &nbsp; &nbsp; ( %data1% )</h4><br><h5>%
 
 var experience_array = [
 {
-	name: 'Company name 1' ,
-	//profile/position: ' XYZ',
+	name: 'Paladin Security Ltd.' ,
+	profile/position: 'High Profile Security Officer',
 	period: 'Aug 2014 - Present ' ,
 	info: 'Job description.....explain roles and duties etc......'
 },
