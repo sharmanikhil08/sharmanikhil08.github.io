@@ -15,7 +15,7 @@ var experience_array = [
 {
 	name: 'Paladin Security Ltd.' ,
 	period: 'Aug 2014 - Present ' ,
-	info: 'Job Role: High Profile Security Officer'
+	info: 'Job Role: High Profile Security Officer <br><br> '
 },
 {
 	name:'SMU Hackathon 2015' , 
@@ -23,10 +23,9 @@ var experience_array = [
 	info: 'Winner - University Category <br><br> Project Name: HealthShirt <br><br> Project Info: Created an app focusing the Healthcare Industry showcasing the concept of Internet of things(IoT), by using Netduino Hardware to connect cloud server for transmitting data from the shirt to a full stack webpage.'
 },
 {
-	name: 'Company Name 3',
-	//profile/position: 'XYZ',
-	period: 'month 20xx- month 20xx',
-	info: 'Job description.....explain roles and duties etc......'
+	name: 'SMU Hackathon 2014',
+	period: 'May 2014',
+	info: 'Social Media Coordinator <br><br> Managed the Social Media accounts for the event and helped in promoting the event successfully by capturing event photos and creating a buzz. <br>'
 }
 ];
 
