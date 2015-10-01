@@ -20,7 +20,7 @@ var experience_array = [
 {
 	name:'SMU Hackathon 2015' , 
 	period: 'May 2015',
-	info: 'Winner - University Category <br> Project Name: HealthShirt <br> Project Info: Created an app focusing the Healthcare Industry showcasing the concept of Internet of things(IoT), by using Netduino Hardware to connect cloud server for transmitting data from the shirt to a full stack webpage.'
+	info: 'Winner - University Category <br><br> Project Name: HealthShirt <br><br> Project Info: Created an app focusing the Healthcare Industry showcasing the concept of Internet of things(IoT), by using Netduino Hardware to connect cloud server for transmitting data from the shirt to a full stack webpage.'
 },
 {
 	name: 'Company Name 3',
