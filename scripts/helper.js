@@ -15,8 +15,7 @@ var experience_array = [
 {
 	name: 'Paladin Security Ltd.' ,
 	period: 'Aug 2014 - Present ' ,
-	info: 'Job Role: High Profile Security Officer
-	'
+	info: 'Job Role: High Profile Security Officer'
 },
 {
 	name:'Company Name 2' ,
