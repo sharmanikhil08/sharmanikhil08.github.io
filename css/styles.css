@@ -51,7 +51,8 @@ h1.retroshadow {
 }
 
 .experience-section{
-	background-color: #FFF;
+	/*background-color: #FFF;*/
+	background-image: url("../img/xp.jpg");
 	padding-left: 50px;
 	padding-right: 50px;
 }
