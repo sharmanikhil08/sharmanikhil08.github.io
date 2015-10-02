@@ -22,8 +22,10 @@ hr{
 
 .designation{
 	color: #181818;
-	font-weight: 500;
 	padding-left: 250px;
+}
+h3.designation{
+	font-weight: 600;
 }
 
 h1 {
