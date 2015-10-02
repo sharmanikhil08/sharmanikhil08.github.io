@@ -1,5 +1,6 @@
 .header-section{
-	background-color: #d5d5d5;
+	/*background-color: #d5d5d5;*/
+	background-image: url("../img/notebook.jpg");
 	padding-top: 10px;
 	padding-left: 50px;
 	padding-right: 50px;
