@@ -68,7 +68,8 @@ h1.retroshadow {
 }
 
 .footer-section{
-	background-color: #09F;
+	/*background-color: #09F;*/
+	background-image: url("../img/broken.jpg");
 	padding-left: 50px;
 	padding-right: 50px;
 }
