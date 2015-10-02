@@ -29,7 +29,7 @@ h3.designation{
 	font-weight: 600;
 }
 
-h1 {
+/*h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   font-size: 70px;
   font-weight: 900;
@@ -37,13 +37,16 @@ h1 {
   text-align: center;
   text-transform: uppercase;
   text-rendering: optimizeLegibility;
-}
+}*/
 h1.retroshadow {
   color: #2c2c2c;
   /*background-color: #d5d5d5;*/
   background-image: url("../img/broken.jpg");
   letter-spacing: .05em;
   text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 70px;
+  font-weight: 900;
 }
 .imgEdit{
 	max-width:250%;
