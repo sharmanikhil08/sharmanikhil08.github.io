@@ -1,21 +1,21 @@
 .header-section{
-	/*background-color: #d5d5d5;*/
 	background-image: url("../img/broken.jpg");
-	/*background-size: cover;*/
 	padding-top: 10px;
 	padding-left: 50px;
 	padding-right: 150px;
 }
-hr{ 
+
+hr.header-section{ 
     display: block;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-left: auto;
     margin-right: auto;
-    border-style: inset;
-    border-width: 1px;
-    color: black;
+    border-style: outset;
+    border-width: 2px;
+    border-color: black;
 } 
+
 .name{
 
 	padding-left: 125px;
@@ -50,37 +50,11 @@ hr{
   -o-transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
   transition: all 300ms cubic-bezier(0.42, 0, 0.58, 1);
 }
-/*h3.designation{
-	font-size: 35px;
-	font-weight: 600;
-}*/
-
-/*h1.retroshadow {
-  color: #2c2c2c;
-  letter-spacing: .05em;
-  text-shadow: 4px 4px 0px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
-  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-  font-size: 70px;
-  font-weight: 900;
-}*/
 
 .retro {
 	text-shadow: 0px 1px 1px #4d4d4d;
 	color: #222;
 	font: 70px 'LeagueGothicRegular';
- /* -webkit-box-sizing: content-box;
-  -moz-box-sizing: content-box;
-  box-sizing: content-box;
-  margin: 0 auto;
-  border: none;
-  font: normal 70px/normal "Anton", Helvetica, sans-serif;
-  color: rgb(112, 112, 112);
-  text-align: center;
-  text-transform: uppercase;
-  -o-text-overflow: clip;
-  text-overflow: clip;
-  letter-spacing: .05em;
-  text-shadow: 4px 4px 0 rgb(238,238,238) , 6px 6px 0 rgb(112,112,112) ;*/
 }
 .imgEdit{
 	max-width:250%;
