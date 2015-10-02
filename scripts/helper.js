@@ -20,12 +20,12 @@
 	{
 		name: 'SMU Hackathon 2014',
 		period: 'May 2014',
-		info: '<b>Social Media Coordinator</b> <br><br> Managed the Social Media accounts for the event and helped in promoting the event successfully by capturing event photos and creating a buzz.'
+		info: '<b>Social Media Coordinator</b> <br><br> \u2022 Managed the Social Media accounts for the event and helped in promoting the event successfully by capturing event photos and creating a buzz.'
 	},
 	{
 		name: 'AIESEC Halifax, NS' ,
 		period: 'September 2011 - January 2012 ' ,
-		info: '<b>Social Media Head/ Webmaster</b> <br><br> \u2022 Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.\n\u2022 Also Assisted with managing the Social Media accounts for the Society.'
+		info: '<b>Social Media Head/ Webmaster</b> <br><br> \u2022 Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.<br>\u2022 Also Assisted with managing the Social Media accounts for the Society.'
 	},
 	{
 		name: 'Paladin Security Ltd.' ,
