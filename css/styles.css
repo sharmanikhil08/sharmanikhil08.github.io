@@ -60,7 +60,7 @@ h1.retroshadow {
 h2.experience{
 	text-shadow: 0px 1px 1px #4d4d4d;
 	color: #222;
-	font: 80px 'LeagueGothicRegular';
+	font: 60px 'LeagueGothicRegular';
 }
 
 .skills-section{
@@ -74,7 +74,7 @@ h2.experience{
 h2.skill{
 	color: #d7ceb2;
 	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
-	font: 80px 'BazarMedium';
+	font: 60px 'BazarMedium';
 	letter-spacing: 10px;
 }
 
