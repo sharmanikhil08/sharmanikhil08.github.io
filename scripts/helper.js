@@ -30,7 +30,7 @@
 	{
 		name: 'Hero BPO, India' ,
 		period: 'May 2011 - August 2011 ' ,
-		info: '<b>IT Support</b> <br><br> \u2022 Successfully assisted the IT Support team by working in a help desk environment. <br> \u2022 Troubleshooted Windows Systems and Network problems. <br> \u02022 Installed new Hardware and Software to department Workstations.'
+		info: '<b>IT Support</b> <br><br> \u2022 Successfully assisted the IT Support team by working in a help desk environment. <br> \u2022 Troubleshooted Windows Systems and Network problems. <br> \u2022 Installed new Hardware and Software to department Workstations.'
 	},
 	{
 		name: 'Ansal Institute of Technology, India' ,
