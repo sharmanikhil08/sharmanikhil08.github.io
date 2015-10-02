@@ -20,17 +20,12 @@ var experience_array = [
 {
 	name: 'SMU Hackathon 2014',
 	period: 'May 2014',
-	info: '<em>Social Media Coordinator<em> <br><br> Managed the Social Media accounts for the event and helped in promoting the event successfully by capturing event photos and creating a buzz.'
-},
-{
-	name: 'Paladin Security Ltd.' ,
-	period: 'Aug 2014 - Present ' ,
-	info: 'Job Role: High Profile Security Officer'
+	info: '<b>Social Media Coordinator<b> <br><br> Managed the Social Media accounts for the event and helped in promoting the event successfully by capturing event photos and creating a buzz.'
 },
 {
 	name: 'AIESEC Halifax, NS' ,
 	period: 'September 2011 - January 2012 ' ,
-	info: '<em>Social Media Head/ Webmaster<em> <br><br> Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.'
+	info: '<b>Social Media Head/ Webmaster<b> <br><br> Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.'
 },
 {
 	name: 'Paladin Security Ltd.' ,
