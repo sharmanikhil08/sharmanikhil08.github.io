@@ -57,6 +57,12 @@ h1.retroshadow {
 	padding-right: 50px;
 }
 
+h2.experience{
+	text-shadow: 0px 1px 1px #4d4d4d;
+	color: #222;
+	font: 80px 'LeagueGothicRegular';
+}
+
 .skills-section{
 	/*background-color: #FFF;*/
 	background-image:  url("../img/skill.jpg"); 
