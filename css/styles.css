@@ -4,7 +4,15 @@
 	padding-left: 50px;
 	padding-right: 50px;
 }
-
+hr.header-section{ 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+} 
 .name{
 	color: white;
 	padding-left: 50px;
