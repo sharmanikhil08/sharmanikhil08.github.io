@@ -25,7 +25,7 @@
 	{
 		name: 'AIESEC Halifax, NS' ,
 		period: 'September 2011 - January 2012 ' ,
-		info: '<b>Social Media Head/ Webmaster</b> <br><br> Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.<br>Also Assisted with managing the Social Media accounts for the Society.'
+		info: '<b>Social Media Head/ Webmaster</b> <br><br> \u2022 Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.\n\u2022 Also Assisted with managing the Social Media accounts for the Society.'
 	},
 	{
 		name: 'Paladin Security Ltd.' ,
