@@ -1,7 +1,7 @@
 .header-section{
 	/*background-color: #d5d5d5;*/
 	background-image: url("../img/broken.jpg");
-	background-size: cover;
+	/*background-size: cover;*/
 	padding-top: 10px;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -27,7 +27,7 @@ hr{
 
 h1 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
-  font-size: 70px;
+  font-size: 90px;
   padding: 30px 10px;
   text-align: center;
   text-transform: uppercase;
