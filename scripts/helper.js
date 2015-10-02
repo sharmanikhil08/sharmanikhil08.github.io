@@ -28,14 +28,14 @@
 		info: '<b>Social Media Head/ Webmaster</b> <br><br> \u2022 Managed and Created Web Content for the On-Campus Society at Saint Mary\'s University using technologies like WordPress, HTML, CSS and JavaScript.<br>\u2022 Also Assisted with managing the Social Media accounts for the Society.'
 	},
 	{
-		name: 'Paladin Security Ltd.' ,
-		period: 'Aug 2014 - Present ' ,
-		info: 'Job Role: High Profile Security Officer'
+		name: 'Hero BPO, India' ,
+		period: 'May 2011 - August 2011 ' ,
+		info: '<b>IT Support</b> <br><br> \u2022 Successfully assisted the IT Support team by working in a help desk environment. <br> \u2022 Troubleshooted Windows Systems and Network problems. <br> \u02022 Installed new Hardware and Software to department Workstations.'
 	},
 	{
-		name: 'Paladin Security Ltd.' ,
-		period: 'Aug 2014 - Present ' ,
-		info: 'Job Role: High Profile Security Officer'
+		name: 'Ansal Institute of Technology, India' ,
+		period: 'January 2011 - May 2011 ' ,
+		info: '<b>IT Lab Assistant</b> <br><br> \u2022 Installed and Upgraded Software on the machines in the lab. <br> \u2022 Successfully assisted the Staff and Students in resolving Technical issues. <br> \u2022 Successfully assisted in setting up new Hardware.'
 	},
 	{
 		name: 'Paladin Security Ltd.' ,
