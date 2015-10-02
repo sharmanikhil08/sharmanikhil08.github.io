@@ -26,6 +26,11 @@ var experience_array = [
 	name: 'SMU Hackathon 2014',
 	period: 'May 2014',
 	info: 'Social Media Coordinator <br><br> Managed the Social Media accounts for the event and helped in promoting the event successfully by capturing event photos and creating a buzz. <br>'
+},
+{
+	name: 'Paladin Security Ltd.' ,
+	period: 'Aug 2014 - Present ' ,
+	info: 'Job Role: High Profile Security Officer <br><br> '
 }
 ];
 
