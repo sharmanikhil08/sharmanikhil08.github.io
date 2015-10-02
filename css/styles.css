@@ -65,6 +65,13 @@ h1.retroshadow {
 	padding-bottom: 20px;
 }
 
+h2.skill{
+	color: #d7ceb2;
+	text-shadow: 3px 3px 0px #2c2e38, 5px 5px 0px #5c5f72;
+	font: 80px 'BazarMedium';
+	letter-spacing: 10px;
+}
+
 .col-md-3{
 	padding-top: 20px;
 	padding-bottom: 20px;
