@@ -31,7 +31,27 @@ var experience_array = [
 	name: 'Paladin Security Ltd.' ,
 	period: 'Aug 2014 - Present ' ,
 	info: 'Job Role: High Profile Security Officer <br><br> '
-}
+},
+{
+	name: 'Paladin Security Ltd.' ,
+	period: 'Aug 2014 - Present ' ,
+	info: 'Job Role: High Profile Security Officer <br><br> '
+},
+{
+	name: 'Paladin Security Ltd.' ,
+	period: 'Aug 2014 - Present ' ,
+	info: 'Job Role: High Profile Security Officer <br><br> '
+},
+{
+	name: 'Paladin Security Ltd.' ,
+	period: 'Aug 2014 - Present ' ,
+	info: 'Job Role: High Profile Security Officer <br><br> '
+},
+{
+	name: 'Paladin Security Ltd.' ,
+	period: 'Aug 2014 - Present ' ,
+	info: 'Job Role: High Profile Security Officer <br><br> '
+},
 ];
 
 var experience_new = '';
