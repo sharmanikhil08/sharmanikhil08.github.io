@@ -57,7 +57,8 @@ h1.retroshadow {
 }
 
 .skills-section{
-	background-color: #FFF;
+	/*background-color: #FFF;*/
+	background-image:  url("../img/skill.jpg"); 
 	padding-right: 50px;
 	padding-left: 80px;
 	padding-bottom: 20px;
