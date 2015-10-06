@@ -10,6 +10,11 @@
     height : auto;
 	}
 
+	.ui-grid-a h1 h3 {
+    width  : 100%;
+    height : auto;
+	}
+
 	.headerHr{ 
 	    display: block;
 	    margin-top: 0.5em;
