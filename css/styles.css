@@ -67,10 +67,6 @@
 		color: #222;
 		font: 70px 'LeagueGothicRegular';
 	}
-	.imgEdit{
-		max-width:250%;
-	    max-height:250%;
-	}
 
 	.experience-section{
 		background-image: url("../img/xp.jpg");
