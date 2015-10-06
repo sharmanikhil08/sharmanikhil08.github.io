@@ -5,6 +5,11 @@
 		padding-right: 50px;
 	}
 
+	.ui-grid-a img {
+    width  : 100%;
+    height : auto;
+	}
+
 	.headerHr{ 
 	    display: block;
 	    margin-top: 0.5em;
