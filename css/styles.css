@@ -83,7 +83,10 @@
 	.skills-section{
 		/*background-color: #FFF;*/
 		background-image:  url("../img/skill.jpg"); 
-		background-size: cover;
+		/*background-size:cover;*/
+		background-attachment: fixed;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
 		padding-right: 50px;
 		padding-left: 80px;
 		padding-bottom: 20px;
