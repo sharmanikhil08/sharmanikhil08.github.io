@@ -17,7 +17,7 @@ body {
 
 		  .ui-grid-a img {
 		  	padding-top: 10px;
-	         width  : 30%;
+	        width  : 30%;
 	         height : auto;
 		  }
 
@@ -25,9 +25,16 @@ body {
 		  	padding-left: 100px;
 		  	padding-top: 50px;
 		  }
-
+		  
 		  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
 		  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
 		  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
 		  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
 		  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+
+		  .myimgrsfix {
+           @media(max-width:767px){
+           width:100%;
+           }
+           }
+ 
