@@ -17,8 +17,8 @@ body {
 
 		  .ui-grid-a img {
 		  	padding-top: 10px;
-	        width  : 30%;
-	         height : auto;
+	        width  : 350px;
+	         /*height : auto;*/
 		  }
 
 		  .ui-block-b {
@@ -37,3 +37,6 @@ body {
            .myimgrsfix{max-width:50%;}
            }
  
+		   @media (max-width: 375px) {
+		   .myimgrsfix{max-width: 100%;}
+		   }
