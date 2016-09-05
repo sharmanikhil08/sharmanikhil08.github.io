@@ -10,7 +10,9 @@
 		  .navbar {
 		      margin-bottom: 0px;
 		  }
-
+		  .navbar-inner {
+              background:transparent;
+          }
 		  .affix ~ .container-fluid {
 		     position: relative;
 		     top: 50px;
