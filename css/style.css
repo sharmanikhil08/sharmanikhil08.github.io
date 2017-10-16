@@ -39,7 +39,7 @@ position:relative;
 
 /* =============================== header ===================================== */
 .header {
-background: url(../img/3.jpg) no-repeat center fixed;
+background: url(../img/7.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -81,9 +81,15 @@ background:rgba(175, 166, 166, 0.8);
   color:#fff;
 }
 .vert-text h2{
-color:#426369;
+color:#2a2c2c;
  font-size: 48px;
 }
+
+.vert-text h3{
+  color:#426369;
+   font-size: 36px;
+}
+
 .btnAbout{
 color:#fff;
 font-size:48px;
